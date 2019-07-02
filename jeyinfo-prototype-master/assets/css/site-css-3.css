@@ -205,7 +205,7 @@
 }
 
 .cards--with-rounded-icons--green .cards-icon {
-	background-color: #51c336
+	background-color: #ff1744
 }
 
 .cards--with-rounded-icons--blue .cards-icon {
@@ -571,7 +571,7 @@
 }
 
 .cards--page-net-2 .cards-item--1 .cards-name {
-	background: #51c336
+	background: #ff1744
 }
 
 .cards--page-net-2 .cards-item--2 .cards-name {
@@ -768,7 +768,7 @@
 	letter-spacing: -.1em;
 	text-align: center;
 	color: #fff;
-	background: #51c336;
+	background: #ff1744;
 	border-radius: 24px
 }
 
@@ -1121,7 +1121,7 @@
 }
 
 .cards--java-4 .cards-item--1 .cards-name {
-	background: #51c336
+	background: #ff1744
 }
 
 .cards--java-4 .cards-item--2 .cards-name {
@@ -1276,7 +1276,7 @@
 	color: #fff;
 	margin: -37px -31px 30px;
 	padding: 18px 31px 16px;
-	background: #51c336;
+	background: #ff1744;
 	text-align: center
 }
 
@@ -1319,7 +1319,7 @@
 }
 
 .cards--ruby-2 .cards-name {
-	background: #51c336;
+	background: #ff1744;
 	background: -webkit-gradient(linear, left top, right top, from(rgba(81, 195, 54, 1)), to(rgba(72, 170, 47, 1)));
 	background: linear-gradient(to right, rgba(81, 195, 54, 1) 0, rgba(72, 170, 47, 1) 100%);
 	color: #fff;
@@ -1328,7 +1328,7 @@
 }
 
 .cards--ruby-2 .cards-item--3 .cards-name {
-	background: #51c336
+	background: #ff1744
 }
 
 .cards--ruby-2 .cards-name h4 {
@@ -1675,7 +1675,7 @@
 .cards--page-quality-management-1 .cards-name h4 {
 	font-size: 25px;
 	line-height: 30px;
-	color: #51c336
+	color: #ff1744
 }
 
 .cards--page-application-security {
@@ -1780,7 +1780,7 @@
 }
 
 .cards--page-application-security-1 .cards-item--3:after {
-	background: #51c336;
+	background: #ff1744;
 	background: rgba(81, 195, 54, .9)
 }
 
@@ -1809,7 +1809,7 @@
 }
 
 .cards--page-application-security-1 .cards-item--3:before {
-	border-color: #51c336 transparent transparent;
+	border-color: #ff1744 transparent transparent;
 	opacity: .8
 }
 
@@ -1924,7 +1924,7 @@
 }
 
 .cards--page-application-security-2 .cards-item--2 {
-	background-color: #51c336
+	background-color: #ff1744
 }
 
 .cards--page-application-security-2 .cards-item--2:before {
@@ -2592,7 +2592,7 @@
 }
 
 .cards--mobile-1 .cards-item-1 .cards-name h4:after {
-	background-color: #51c336
+	background-color: #ff1744
 }
 
 .cards--mobile-1 .cards-item-2 .cards-name h4:after {
@@ -4383,7 +4383,7 @@ only screen and (min-device-pixel-ratio:2) {
 }
 
 .cards2 a {
-	color: #51c336;
+	color: #ff1744;
 	text-decoration: none
 }
 
@@ -4505,7 +4505,7 @@ only screen and (min-device-pixel-ratio:2) {
 	height: 4px;
 	top: 10px;
 	left: 2px;
-	background-color: #51c336;
+	background-color: #ff1744;
 	border-radius: 50%
 }
 
@@ -4636,7 +4636,7 @@ only screen and (min-device-pixel-ratio:2) {
 }
 
 .cards3-item--1 .cards3-name h4 {
-	color: #51c336
+	color: #ff1744
 }
 
 .cards3-item--2 .cards3-name h4 {
@@ -4959,7 +4959,7 @@ only screen and (min-device-pixel-ratio:2) {
 	height: 4px;
 	top: 10px;
 	left: 2px;
-	background-color: #51c336;
+	background-color: #ff1744;
 	border-radius: 50%
 }
 
@@ -5146,7 +5146,7 @@ only screen and (min-device-pixel-ratio:2) {
 	padding-top: 16px;
 	padding-bottom: 19px;
 	color: #fff;
-	background-color: #51c336
+	background-color: #ff1744
 }
 
 .cards8-name h4:after,
@@ -5163,7 +5163,7 @@ only screen and (min-device-pixel-ratio:2) {
 .cards8 a,
 .cards9 a,
 .cards9-item--1 .cards9-name h4 {
-	color: #51c336
+	color: #ff1744
 }
 
 .cards9,
@@ -5311,7 +5311,7 @@ only screen and (min-device-pixel-ratio:2) {
 .cards9-name h4 {
 	margin-bottom: 22px;
 	font-size: 38px;
-	color: #51c336
+	color: #ff1744
 }
 
 .cards9-item--2 .cards9-name h4 {
@@ -5792,7 +5792,7 @@ only screen and (min-device-pixel-ratio:2) {
 }
 
 .scheme-item--3 .scheme-title h3 {
-	color: #51c336
+	color: #ff1744
 }
 
 .scheme-item--4 .scheme-title h3 {
@@ -6012,7 +6012,7 @@ only screen and (min-device-pixel-ratio:2) {
 	height: 4px;
 	top: 11px;
 	left: 1px;
-	background-color: #51c336;
+	background-color: #ff1744;
 	border-radius: 50%
 }
 
@@ -6936,7 +6936,7 @@ only screen and (min-device-pixel-ratio:2) {
 }
 
 .scheme7 a {
-	color: #51c336;
+	color: #ff1744;
 	text-decoration: none
 }
 
@@ -6969,7 +6969,7 @@ only screen and (min-device-pixel-ratio:2) {
 }
 
 .scheme7-item--3 .scheme7-title h4 {
-	color: #51c336
+	color: #ff1744
 }
 
 .scheme7-item--4 .scheme7-title h4 {
@@ -7029,7 +7029,7 @@ only screen and (min-device-pixel-ratio:2) {
 }
 
 .scheme7-item--3 .scheme7-text ul li:after {
-	background-color: #51c336
+	background-color: #ff1744
 }
 
 .scheme7-item--4 .scheme7-text ul li:after {
@@ -7110,7 +7110,7 @@ only screen and (min-device-pixel-ratio:2) {
 }
 
 .sphere a {
-	color: #51c336;
+	color: #ff1744;
 	text-decoration: none
 }
 
@@ -8861,7 +8861,7 @@ only screen and (min-device-pixel-ratio:2) {
 }
 
 .sphere--page-prototyping .icons--green .sphere-item-icon {
-	border-color: #51c336
+	border-color: #ff1744
 }
 
 .sphere--page-prototyping .icons--blue .sphere-item-icon {

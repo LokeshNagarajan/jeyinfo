@@ -38,7 +38,7 @@
 }
 
 .contactForm-checkbox__input:checked+.contactForm-checkbox__label .contactForm-checkbox__icon {
-	background: #51c336!important
+	background: #ff1744!important
 }
 
 #iflexion-contacts-form-wrapper .messages {
@@ -317,8 +317,8 @@
 }
 
 .view-insights-items .pager.pager-show-more .pager-show-more-next a {
-	color: #51c336;
-	border: 2px solid #51c336;
+	color: #ff1744;
+	border: 2px solid #ff1744;
 	background-color: transparent;
 	padding: 14px 43px 11px;
 	margin-bottom: 0;
@@ -345,7 +345,7 @@
 
 .view-insights-items .pager.pager-show-more .pager-show-more-next a:hover {
 	color: #fff;
-	background-color: #51c336
+	background-color: #ff1744
 }
 
 .node-type-research .article-item .content-normal.content-html img {
