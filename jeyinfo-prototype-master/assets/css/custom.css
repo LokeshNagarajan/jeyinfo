@@ -14,6 +14,10 @@
     flex-direction: column;
     align-items: center;
 }
+.d-flex {
+    display: flex;
+    flex-direction: row;
+}
 
 
 /*Clients slider*/
@@ -30,3 +34,20 @@
     margin: 0px 10px;
 }
 /*Clients slider*/
+
+/*Vision and Mission*/
+.visionandmission .container-box {
+    min-height: 250px;
+    padding: 20px;
+}
+.visionandmission .container_vision {
+    background: #db1e25;
+    width: 50%;
+    text-align: left;
+}
+.visionandmission .container_mission {
+    text-align: right;
+    background: #532a6f;
+    width: 50%;
+}
+/*Vision and Mission*/
