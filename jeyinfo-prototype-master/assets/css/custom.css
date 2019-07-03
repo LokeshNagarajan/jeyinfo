@@ -1,5 +1,32 @@
+/*Common Css*/
+.pb-0{
+    padding-bottom:0 !important;
+}
+.m-0 {
+    margin: 0 !important;
+}
+.text-center {
+    text-align: center;
+}
+/*Common Css*/
 .d-flex-column-center{
     display: flex;
     flex-direction: column;
     align-items: center;
 }
+
+
+/*Clients slider*/
+.clients-slider img { cursor:pointer;   width: 100%; filter: grayscale(100%); -webkit-filter: grayscale(100%); transition: all 0.5s ease;  }
+.clients-slider img:hover {  filter: grayscale(0%); -webkit-filter: grayscale(0%);  }
+.clients-slider {
+    padding-top: 20px;
+}
+.clients_container {
+    padding: 30px 0px;
+}
+.clients-slider .slick-slide {
+    box-shadow: 0px 0px 0px #000000;
+    margin: 0px 10px;
+}
+/*Clients slider*/
